@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Developer 💻<br>Computer Engineer ⚙️
+iOS Developer 💻<br>Computer Engineer ⚙️<br>Student 11th Class
 
 
 ## 🌐 Socials:
