@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Developer 💻<br>Computer Engineer ⚙️<br>Student 11th Class
+iOS Developer 💻<br>Mechatronics Engineering ⚙️<br>Yildiz Technical University
 
 
 ## 🌐 Socials:
