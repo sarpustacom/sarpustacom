@@ -1,5 +1,5 @@
 # 💫 About Me:
-iOS Developer 💻<br>Mechatronics Engineering ⚙️<br>Yildiz Technical University
+iOS Developer 💻<br>Mechatronics Engineering⚙️<br>Yildiz Technical University
 
 
 ## 🌐 Socials:
