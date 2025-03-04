@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer 💻<br>Mechatronics Engineering⚙️<br>Yildiz Technical University
+Developer 💻<br>Mechatronic Engineering⚙️<br>Yildiz Technical University
 
 
 ## 🌐 Socials:
