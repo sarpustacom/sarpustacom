@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mechatronics Engineering at Yildiz Technical University (1/4)<br>- AI & Data Science Developer<br>- Working on Machine Learning.
+Mechatronics Engineering at Yildiz Technical University (2/4)<br>- AI & Data Science Developer<br>- Working on Machine Learning.
 
 
 # 💻 Tech Stack:
